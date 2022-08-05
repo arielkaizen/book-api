@@ -54,6 +54,10 @@ $ npm install
 $ npm run start:dev
 ```
 
+## 5. Import the postman collection
+
+<a href="https://github.com/arielkaizen/book-api/blob/main/Crud.postman_collection.json">Crud.postman_collection.json</a>
+
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
